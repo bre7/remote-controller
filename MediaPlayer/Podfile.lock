@@ -1,0 +1,25 @@
+PODS:
+  - Kanna (4.0.0)
+  - TGPControls (4.0.0)
+
+DEPENDENCIES:
+  - Kanna (from `https://github.com/tid-kijyun/Kanna.git`, branch `feature/v4.0.0`)
+  - TGPControls
+
+EXTERNAL SOURCES:
+  Kanna:
+    :branch: feature/v4.0.0
+    :git: https://github.com/tid-kijyun/Kanna.git
+
+CHECKOUT OPTIONS:
+  Kanna:
+    :commit: 9091f84ed0e39b7fa8536da98a1812c3456bc4e3
+    :git: https://github.com/tid-kijyun/Kanna.git
+
+SPEC CHECKSUMS:
+  Kanna: d5ae2a26472f7e7a474e7f36a9cd8aa2c8c63ad3
+  TGPControls: d7ab5a338746c100b2ae57f6b6cedee7151f116a
+
+PODFILE CHECKSUM: ff9bddc0dc4ef573b5be67c12487060b9af5e47c
+
+COCOAPODS: 1.4.0.beta.1
